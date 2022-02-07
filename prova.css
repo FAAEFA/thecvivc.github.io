@@ -1,0 +1,434 @@
+
+/*Background */
+.pattern-bg {
+        background: url(https://cdn.discordapp.com/attachments/930865949568016484/936663680400097361/qnHKN8.gif) !important; 
+}
+.list-weapons {
+        display: none !important;
+}
+.state {
+        margin-left: 52%;
+        transform: unset;
+}
+.cont-endurance {
+        margin-bottom: 9%;
+}
+.borders {
+        display: none !important;
+}
+.right-interface  {
+        margin-left: 55%;
+        margin-top: 20%;
+        transform: unset;
+
+}
+.head-text {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.container-card {
+    background: #0a0a0a78 !important;
+    --top: transparent !important;
+    --bottom: transparent !important;
+    --hover-color:white !important;
+}
+.left-interface {
+        margin-left: 55%;
+        margin-top: 20%;
+        transform: unset;
+
+}
+
+
+
+
+.card-cont {background: none !important }
+.mWwn {
+        display: none !important;
+}
+
+.logo {display: none !important}
+  }
+.pattern-bg {display: none !important}
+.bg-radial {display: none !important}
+.progress-label {display: none !important}
+.select-region {display: none !important}
+.live-streams {display: none }
+
+.team-section {
+    position: fixed;
+    left: 30.9%;
+    top: -0.9%;
+     !important}
+
+.icon-btn.text-1 { background: none !important  
+}
+
+.right-icons {
+  top: 7%;
+   
+    --top: transparent !important;
+    --bottom: transparent !important;
+    --hover-color:white !important;
+  !important}
+
+.play-content-up {background: none !important} 
+
+.left-icons{
+    top: 27% 
+      !important}
+
+
+.soc-group  { display:none !important}
+.hp-title { display:none !important}
+.info { display:none !important}
+.chat-position[data-v-6a4c5c6d] {
+    left: 0;
+    bottom: -0.6rem; !important}
+.state {
+  top: 15%;
+  margin-left: 64%;
+  transform: rotate(90deg);
+}
+
+.state-cont {
+  margin-top: 27%;
+  margin-left: -0.1%;
+}
+.messages, .messages-cont 
+{
+   background:none !important}
+
+.left-icons .icon-btn{
+    background: transparent;
+    border-top: transparent;
+    border-bottom: transparent;
+    box-shadow: none;
+}
+.clans, .hub-container {
+    background: transparent !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mobile-fullscreen {
+    background: transparent !important;
+}
+
+.tabs {
+    background: transparent !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+    border-right: none !important;
+}
+
+.active-tab {
+    background: transparent !important;
+    border-right: none !important;
+    border-left: none !important;
+}
+
+.tab {
+    background: transparent !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+.head-text {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.add-friends {
+    background: transparent !important;
+}
+
+.limit {
+    border-left: none !important;
+}
+
+.top-bar, .close, .home, .name-page {
+    display: none !important;
+}
+
+.container {
+    background: transparent !important;
+    backdrop-filter: blur(5px);
+    box-shadow: none !important;
+}
+
+.champions-list {
+    box-shadow: none !important;
+}
+
+.reset-time, .info-awards, .news {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.top-items {
+    background: transparent !important;
+}
+
+.list-cont {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+.subjects { background: transparent !important;}
+.tab-bar { background: transparent !important;}
+.subject { background: transparent !important;}
+.bottom { background: transparent !important;}
+.gun { background: transparent !important;}
+.clans { background: transparent !important;}
+.champions-list { background: transparent !important;}
+
+.play-btn {
+    background: #0a0a0a78 !important;
+    --top: transparent !important;
+    --bottom: transparent !important;
+    --hover-color:white !important;
+}
+.play-content-up {
+    
+    --top: transparent !important;
+    --bottom: transparent !important;
+    --hover-color:white !important;
+}
+.select-mod {
+    background: #0a0a0a78 !important;
+    --top: transparent !important;
+    --bottom: transparent !important;
+    --hover-color:white !important;
+}
+
+
+.select-mods-cont {
+    background: #0a0a0a78 !important;
+    --top: transparent !important;
+    --bottom: transparent !important;
+    --hover-color:white !important;
+    
+}
+
+.select-mods-cont { 
+  box-shadow: 0 4px 4px rgb(27 0 255)   !important;
+  margin-left: 23% !important;
+  top: -235% !important; 
+}
+
+
+
+.clans, .hub-container {
+}
+    background: transparent !important;
+}
+
+.mobile-fullscreen {
+    background: transparent !important;
+}
+
+.tabs {
+    background: transparent !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+    border-right: none !important;
+}
+
+.active-tab {
+    background: transparent !important;
+    border-right: none !important;
+    border-left: none !important;
+}
+
+.tab {
+    background: transparent !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+
+.add-friends {
+    background: transparent !important;
+}
+
+.limit {
+    border-left: none !important;
+}
+
+.top-bar, .close, .home, .name-page {
+    display: none !important;
+}
+
+.container {
+    background: transparent !important;
+    backdrop-filter: blur(5px);
+    box-shadow: none !important;
+}
+
+.champions-list {
+    box-shadow: none !important;
+}
+
+.reset-time, .info-awards, .news {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.top-items {
+    background: transparent !important;
+}
+
+.list-cont {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.tab-bar {
+    background: transparent !important;
+}
+
+.subjects {
+    background: transparent !important;
+    border: none !important;
+}
+
+.subject {
+    background: transparent !important;
+}
+
+.inventory .avatar {
+    background: transparent !important;
+}
+
+.gun {
+    background: transparent !important;
+    border: none !important;
+}
+
+.inventory .bottom {
+    background: transparent !important;
+}
+
+.right-container {
+    background: transparent !important;
+}
+
+
+
+
+.button[data-v-02c36fca]  {
+    background: transparent !important;
+}
+
+.player  {
+    background: transparent !important;
+}
+
+
+
+.custom-checkbox > span[data-v-47e1b746]:before {
+    border-radius: 50px;
+    background-color: rgb(16,18,27);
+    border: none;
+}
+
+.custom-checkbox > input:checked + span[data-v-47e1b746]:before {
+    background-color: rgb(16,18,27) !important;
+}
+
+:root {
+    --accentColor: rgb(15,155,15); /*  Dot Hex */
+    --dotSize: 0.23rem;      /*  Dot Size  */
+
+}
+
+.desktop-game-interface[data-v-6a4c5c6d]::after {
+    border-radius: 100%;
+    content: "";
+    background: var(--accentColor);
+    border: var(--borderSize) solid var(--borderColor);
+    width: var(--dotSize);
+    height: var(--dotSize);
+    position: fixed;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%, 50%);
+    z-index: 999 !important;
+}
+.card-cont, #right-icons > div.icon-btn.text-1{
+  border-bottom: 6px solid #000 !important;
+  border-top: 4px solid #000 !important;
+}
+
+.cont-endurance{
+    background: transparent !important;
+}
+.endurance-progress {
+    outline: var(--secondary-1) 2px solid;
+}
+.endurance-progress{
+background: rgb(16,18,27) !important;
+}
+.timer {
+background: rgb(16,18,27) !important;
+}
+.kill {
+background: rgb(16,18,27) !important;
+}
+.death {
+background: rgb(16,18,27) !important;
+}
+.card {
+background: rgb(16,18,27) !important;
+}
+.box {
+background: rgb(16,18,27) !important;
+}
+.input {
+background: rgb(16,18,27) !important;
+}
+.content.text-2 {
+background: rgb(16,18,27) !important;
+}
+.friend {
+background: rgb(16,18,27) !important;
+}
+.level-cont {
+background: rgb(16,18,27) !important;
+}
+.delete {
+background: rgb(16,18,27) !important;
+}
+.add {
+background: #bdbdbd !important;
+}
+.reqs {
+background: #fff !important;
+}
+.selected {
+background: #fff !important;
+}
